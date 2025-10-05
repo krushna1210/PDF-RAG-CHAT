@@ -14,7 +14,7 @@ npm-debug.log*
 Thumbs.db
 
 # Environment variables
-
+.env
 
 # Python virtual environment
 venv/

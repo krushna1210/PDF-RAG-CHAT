@@ -121,7 +121,6 @@ streamlit run app.py
 
 ## 🖼️ Architecture Overview
 
-```mermaid
 graph TD
 A[User Uploads PDFs] --> B[Text Extraction]
 B --> C[Chunking]

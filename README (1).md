@@ -102,20 +102,7 @@ streamlit run app.py
 
 ---
 
-## 🖼️ Architecture Overview
 
-```mermaid
-graph TD
-A[User Uploads PDFs] --> B[Text Extraction]
-B --> C[Chunking]
-C --> D[Embedding Generation]
-D --> E[Vector Database (FAISS)]
-E --> F[Query + Retrieval]
-F --> G[LLM Response Generation]
-G --> H[Answer Display on UI]
-```
-
----
 
 ## 💡 Future Enhancements
 

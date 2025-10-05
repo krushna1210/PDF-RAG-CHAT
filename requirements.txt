@@ -1,0 +1,9 @@
+streamlit
+python-dotenv
+pdfplumber
+tqdm
+cohere
+pinecone
+groq
+numpy
+PyMuPDF
